@@ -1,5 +1,5 @@
 quick start
 
 ```bash
-git clone https://github.com/vwinterdev/skills.git ./.claude/skills
+git clone https://github.com/vwinterdev/senior-frontend-vue.git ./.claude/skills/senior-frontend-vue
 ```
